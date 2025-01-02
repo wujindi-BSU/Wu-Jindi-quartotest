@@ -1,2 +1,1 @@
-# Wu-Jindi-quartotest
-Wu Jindi
+https://wujindi-bsu.github.io/quartoweb/Index.html
